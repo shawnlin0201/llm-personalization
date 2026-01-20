@@ -16,6 +16,12 @@
 |ChatGPT|Setting / Personalization / Custom Instruction|
 |VSCode Copilot|.github/custom-instruction.md|
 
+example: 使用 ChatGPT 但對話風格想偏向技術文章類型風格的回覆。
+1. 打開 ChatGPT Setting
+2. 找到 Personalization 設定頁
+3. 找到 Custom Instruction 欄位
+4. 將下方 Config 中 `book-and-cite` 連結內的 prompt 複製貼上。
+
 ## Config
 |Name|Description|使用 Config 後的對話狀況|Author|
 |---|:--|---|---|
